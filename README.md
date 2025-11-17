@@ -1,5 +1,6 @@
 # UI-UX-Experiment3
-
+### Name : KIRUTHIKA.N
+### Register no: 212224230127
 ## Aim:
 
 The aim of this study is to evaluate and compare the user experience (UX) of two leading food delivery applications—Zomato and Swiggy—using Jakob Nielsen’s heuristic principles. The objective is to identify usability strengths and weaknesses, compare competing platforms, and recommend improvements that enhance overall usability, efficiency, and customer satisfaction.
